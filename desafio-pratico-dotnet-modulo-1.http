@@ -1,0 +1,6 @@
+@desafio_pratico_dotnet_modulo_1_HostAddress = http://localhost:5082
+
+GET {{desafio_pratico_dotnet_modulo_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
