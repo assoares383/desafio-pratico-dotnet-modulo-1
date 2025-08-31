@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("desafio-pratico-dotnet-modulo-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea1abc8b84b7524ebc3182f248b0d59ae7227ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("desafio-pratico-dotnet-modulo-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("desafio-pratico-dotnet-modulo-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
